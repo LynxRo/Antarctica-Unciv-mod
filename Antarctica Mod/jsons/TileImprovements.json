@@ -1,0 +1,13 @@
+[
+	{
+		"name": "Ice quarry",
+		"uniqueTo": "Antarctica",
+		"terrainsCanBeBuiltOn": ["Snow", "Tundra"],
+		"production": 2,
+		"happiness": 1,
+		"turnsToBuild": 8,
+		"techRequired": "Construction",
+		"improvingTech": "Physics",
+		"improvingTechStats": {"production": 1}
+	}
+]

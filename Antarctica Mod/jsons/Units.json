@@ -1,0 +1,15 @@
+[
+	{
+		"name": "Penguin Warrior",
+		"unitType": "Melee",
+		"uniqueTo": "Antarctica",
+		"replaces": "Warrior",
+		"movement": 2,
+		"strength": 7,
+		"cost": 35,
+		"upgradesTo": "Swordsman",
+		"hurryCostModifier": 20,
+		"uniques":["Defense bonus when embarked", "+33% combat bonus in [Tundra]/[Snow]", "Double movement in coast", "Can enter ice tiles"],
+		"attackSound": "nonmetalhit"
+	}
+]

@@ -1,0 +1,41 @@
+
+game.png
+size: 1024,512
+format: RGBA8888
+filter: MipMapLinearLinear,MipMapLinearLinear
+repeat: none
+ImprovementIcons/Ice quarry
+  rotate: false
+  xy: 439, 306
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1
+ImprovementIcons/Ice quarry1
+  rotate: false
+  xy: 2, 104
+  size: 435, 402
+  orig: 435, 402
+  offset: 0, 0
+  index: -1
+NationIcons/Antarctica
+  rotate: false
+  xy: 2, 2
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Ice quarry
+  rotate: false
+  xy: 641, 478
+  size: 32, 28
+  orig: 32, 28
+  offset: 0, 0
+  index: -1
+UnitIcons/Penguin Warrior
+  rotate: false
+  xy: 439, 104
+  size: 200, 200
+  orig: 200, 200
+  offset: 0, 0
+  index: -1

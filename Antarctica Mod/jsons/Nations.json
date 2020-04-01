@@ -1,0 +1,36 @@
+[
+
+	{
+		"name":"Antarctica",
+		"leaderName":"Emperor Barry the Penguin",
+		"adjective":["Antarctican"],
+		"startBias":["Snow", "Tundra", "Avoid Desert"],
+		"preferredVictoryType":"Domination",
+		
+		"startIntroPart1": "TBA",
+		"startIntroPart2": "TBA",
+		
+		"declaringWar":"War? Let the fun begin. Caw caw!",
+		"attacked":"We expected this. Let's go, my brothers!",
+		"defeated":"This can't be real! I have failed you, my friends...",
+		"introduction":"Hello, human.",
+		
+		"neutralHello":"Ca-caw!",
+		"neutralLetsHearIt":["Let's see.","Tell me.","Let's hear."],
+		"neutralNo":["I'd rather not.","I can't accept this.","I refuse."],
+		"neutralYes":["Good.","Nice.","Very well."],
+
+		"hateHello":"...",
+		"hateLetsHearIt":["Speak!","Fine, let's hear.","Go on."],
+		"hateNo":["No way!", "No.","Seriously?"],
+		"hateYes":["Alright.","Not bad.","Fine."],
+		
+		"tradeRequest":"We offer you this trade.",
+				
+		"outerColor":[75,200,240],
+		"innerColor":[240,240,255],
+		"unique":"WAYFINDING",
+		"cities":["South Pole", "SealMurdo", "New Snow City", "Pingtown", "Isberg", "Codcoast", "Adelieton", "Wanacoat", "Amundsentown",
+			"Jussommiglus", "Orcasbest"]
+	}
+]
